@@ -1,0 +1,58 @@
+.logo1 {
+  position: absolute;
+  width: 183px;
+  height: 63px;
+  left: 120px;
+  top: 40px;
+  border-radius: 0px;
+}
+
+.category,
+.FAQs,
+.mycart {
+  position: absolute;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  cursor: pointer;
+  color: #0e79bd;
+}
+
+.category {
+  width: 98px;
+  height: 28px;
+  left: 719px;
+  top: 57px;
+}
+
+.FAQs {
+  width: 56px;
+  height: 28px;
+  left: 867px;
+  top: 57px;
+}
+
+.mycart {
+  width: 89px;
+  height: 28px;
+  left: 973px;
+  top: 57px;
+}
+
+button {
+  position: absolute;
+  width: 211px;
+  height: 58px;
+  left: 1109px;
+  top: 42px;
+  cursor: pointer;
+  background: #0e79bd;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+  

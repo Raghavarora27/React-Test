@@ -1,0 +1,98 @@
+.Heading {
+  position: absolute;
+  width: 116px;
+  height: 56px;
+  left: 662px;
+  top: 2348px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.box1 {
+  position: absolute;
+  width: 1200px;
+  height: 130px;
+  left: 120px;
+  top: 2474px;
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+.box1 span,
+.box3 span {
+  position: absolute;
+  width: 987px;
+  height: 33px;
+  left: 50px;
+  top: 49px;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+.box1 img,
+.box3 img {
+  position: absolute;
+  left: 1103.45px;
+  top: 53.81px;
+  bottom: 53.81px;
+}
+
+.box2 {
+  position: absolute;
+  width: 1200px;
+  height: 318px;
+  left: 120px;
+  top: 2664px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.box2 span {
+  position: absolute;
+  left: 50px;
+  top: 49px;
+  bottom: 236px;
+  right: 163px;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+.box2 img {
+  position: absolute;
+  top: 53.81px;
+  right: 57.45px;
+  left: 1103.45px;
+  bottom: 241.81px;
+  transform: rotate(180deg);
+}
+
+.info {
+  position: absolute;
+  width: 1100px;
+  height: 90px;
+  left: 50px;
+  right: 50px;
+  top: 179px;
+  bottom: 49px;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.box3 {
+  position: absolute;
+  width: 1200px;
+  height: 130px;
+  left: 120px;
+  top: 3042px;
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}

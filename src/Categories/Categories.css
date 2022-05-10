@@ -1,0 +1,130 @@
+.text1,
+.text2,
+.text3 {
+  position: absolute;
+  text-align: center;
+  color: #000000;
+}
+
+.text1 {
+  width: 355px;
+  height: 56px;
+  left: 551px;
+  top: 844px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-transform: uppercase;
+}
+
+.text2 {
+  width: 1200px;
+  height: 28px;
+  left: 120px;
+  top: 950px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.text3 {
+  width: 241px;
+  height: 42px;
+  left: 120px;
+  top: 1098px;
+
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.box {
+  position: absolute;
+  width: 310px;
+  height: 188px;
+  left: 120px;
+  top: 1200px;
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  text-align: center;
+}
+
+.box img {
+  position: absolute;
+  width: 159px;
+  height: 80px;
+  left: 75px;
+  top: 20px;
+}
+
+.box span {
+  position: absolute;
+  width: 262px;
+  height: 28px;
+  left: 20px;
+  top: 120px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.glance {
+  position: absolute;
+  width: 656px;
+  height: 56px;
+  left: 404px;
+  top: 1538px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.video {
+  position: absolute;
+  width: 1200px;
+  height: 534px;
+  left: 120px;
+  top: 1664px;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.53)),
+    url("../Assets/Rectangle1.png");
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 60px;
+}
+
+.video div {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 565px;
+  top: 232px;
+}
+
+.video div span {
+  position: absolute;
+  left: 8.33%;
+  right: 8.33%;
+  top: 8.33%;
+  bottom: 8.33%;
+  border-radius: 50%;
+  background: #dadada;
+}
+.video div span img {
+  position: absolute;
+  left: 23.18px;
+  right: 23.18px;
+  top: 17.49px;
+  bottom: 17.49px;
+  height: 23.34px;
+  width: 16.54px;
+}

@@ -1,0 +1,209 @@
+.heading {
+  position: absolute;
+  width: 312px;
+  height: 56px;
+  left: 570px;
+  top: 3322px;
+  
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.b1 {
+  position: absolute;
+  width: 1200px;
+  height: 360px;
+  left: 120px;
+  top: 3448px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.b1 span,
+.b2 span,
+.b3 span {
+  position: absolute;
+  width: 987px;
+  height: 35px;
+  left: 50px;
+  top: 50px;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+}
+
+.b1 div span,
+.b2 div span,
+.b3 div span {
+  position: absolute;
+  width: 1100px;
+  height: 90px;
+  left: 50px;
+  top: 135px;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.b1 div div span,
+.b2 div div span,
+.b3 div div span {
+  position: absolute;
+  width: 201px;
+  height: 35px;
+  left: 912px;
+  top: 275px;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.b1 div div span img,
+.b2 div div span img,
+.b3 div div span img {
+  position: absolute;
+  left: 220.29px;
+  top: 5.27px;
+  transform: rotate(-90deg);
+}
+
+.b2 {
+  position: absolute;
+  width: 1200px;
+  height: 360px;
+  left: 120px;
+  top: 3868px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.b3 {
+  position: absolute;
+  width: 1200px;
+  height: 360px;
+  left: 120px;
+  top: 4288px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.topics {
+  position: absolute;
+  width: 561px;
+  height: 56px;
+  left: 448px;
+  top: 4798px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.topic1 {
+  position: absolute;
+  width: 1200px;
+  height: 451px;
+  left: 120px;
+  top: 4924px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+
+  background: linear-gradient(90deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%),
+    url("../Assets/Rectangle2.png");
+  border-radius: 0px 30px 30px 0px;
+  
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 510px;
+  background-color: #ffffff;
+}
+
+.topic1 span,
+.topic2 span {
+  position: absolute;
+  width: 327px;
+  height: 33px;
+  left: 50px;
+  top: 50px;
+
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.topic2 span{
+  width: 495px;
+}
+
+.topic1 div span,
+.topic2 div span {
+  position: absolute;
+  width: 650px;
+  height: 203px;
+  left: 50px;
+  top: 133px;
+  right: 554px;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.topic1 div div span,
+.topic2 div div span {
+  position: absolute;
+  width: 201px;
+  height: 35px;
+  left: 50px;
+  top: 366px;
+
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.topic1 div div span img,
+.topic2 div div span img {
+  position: absolute;
+  left: 210.29px;
+  top: 3px;
+  transform: rotate(-90deg);
+}
+
+.topic2 {
+  position: absolute;
+  width: 1200px;
+  height: 451px;
+  left: 120px;
+  top: 5435px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  background: linear-gradient(90deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%),
+    url("../Assets/Rectangle1.png");
+  border-radius: 0px 30px 30px 0px;
+  
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 200px;
+  background-color: #ffffff;
+}
